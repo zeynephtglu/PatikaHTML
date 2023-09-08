@@ -1,0 +1,28 @@
+h1{
+    color:red;
+}
+
+h2{
+    color:blueviolet;
+}
+
+h3{
+    color: burlywood;
+}
+
+p{
+    color: dimgrey;
+}
+
+
+	
+body{margin:0 auto;text-align:center; width:960px;}
+
+ol{
+    list-style-position: inside
+}
+
+ul{
+    
+    position: relative;
+}
